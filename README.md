@@ -49,7 +49,7 @@ Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
 
 ### Project of significant impact: New brain board
 
-- A (group of) volunteer(s) decide(s) they’d like to work on finding a new single board computer which can serve as the brain board, and port/upgrade software to work on it.
+- A group of volunteers decide they’d like to work on finding a new single board computer which can serve as the brain board, and port/upgrade software to work on it.
 - New / Updated ticket in srobo/dev-tasks.
 - The volunteers develop a brief specification, including information like:
     - Functional requirements (e.g. compatible with the rest of the kit, can be powered from Power Board, runs our API, camera isn’t made slower, form factor)
