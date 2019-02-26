@@ -1,2 +1,2 @@
 # dev-team
-Proposal for the Dev Team
+Proposals for the Dev Team
