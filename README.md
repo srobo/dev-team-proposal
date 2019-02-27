@@ -2,13 +2,13 @@
 
 This document aims to solve the important issue of development by outlining the formation of a number of smaller sub-groups within Student Robotics:
 - The Development Coordination Team.
-- A number of smaller _project groups_.
+- A number of _project groups_.
 
 ## The Development Coordination team
 
 The Development Coordination team (a.k.a. the _Dev Team_) is a group of volunteers that are chosen annually in a similar fashion to the formation of the _Core Team_, although they may be responsible for projects beyond the annual timescale.
 
-The goals of the _Dev Team_ are to ensure the long-term longevity of Student Robotics by working on projects that enhance the experience for SR’s competitors and volunteers in line with its values, and enable SR’s long term growth. Additionally they will aim to fulfill the values of Student Robotics, in particular our goal of reflecting reality by incorporating the latest technology whenever feasible.
+The goals of the _Dev Team_ are to ensure the long-term longevity of Student Robotics by organising projects that enhance the experience for SR’s competitors and volunteers in line with its values, and enable SR’s long term growth. Additionally they will aim to fulfill the values of Student Robotics, in particular our goal of reflecting reality by incorporating the latest technology whenever feasible.
 
 ## Project Groups
 
@@ -43,7 +43,7 @@ For the purposes of budgetary accountability, the _Dev Team_ will select a Chair
 
 For new projects, there is a process to follow to ensure they receive sufficient review and testing before they are implemented. This is shown in the examples below.
 
-For each _project group_ it is recommended that a “Project” is opened and actively maintained with high-level progress updates in the `srobo` GitHub - even the “nice to haves” - if there are good ideas being worked on which get parked here, at least there will be some documentation to pick up on.
+For each _project group_ it is recommended that a “Project” is opened and actively maintained with high-level progress updates in the `srobo` GitHub organisation - even the “nice to haves” - if there are good ideas being worked on which get parked here, at least there will be some documentation to pick up on.
 
 Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
 
