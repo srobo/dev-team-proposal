@@ -61,7 +61,7 @@ Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
     - Cost per unit limit
     - Evidence shown that more than one board has been considered
 - The _Dev Team_ may consult the _Core Team_ or Trustees to assist them with requirements. For example, in the case of a Project that would have a high implementation cost, the _Dev Team_ would need to communicate the feasibility of it with the Trustees.
-- This specification is presented to and ratified by the _Dev Team_ (either on the _Dev Team_ mailing list or at a _Dev Team_ meeting)
+- This specification is presented to and ratified by the _Dev Team_ (either on the _Dev Team_ mailing list or at a _Dev Team_ meeting). Any sensitive information, such as a budget, will need to be privately discussed by the _Dev Team_ and _project group_.
 - Development work happens.
 - If changes to the specification are needed, these can be discussed with the _Dev Team_.
 - Development reaches a point where the project group is happy the work is done and is shippable.
