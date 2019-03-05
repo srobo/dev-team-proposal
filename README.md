@@ -31,7 +31,7 @@ For the purposes of budgetary accountability, the _Dev Team_ will select a Chair
 1. Much like _Core Team_, minutes and reports from the _Dev Team_, and its various sub-groups will be available to view by the general public. Sensitive data, such as budgeting, may be exempt from this.
 2. The _Dev Team_ will submit regular progress reports to the Trustees.
 3. As well as regular volunteers, the _Dev Team_ may contain trustees and members of the _Core Team_, however volunteers should bear in mind any potential conflicts of interest that may arise as a result of this.
-4. Members of the _Dev Team_ should abstain from financial decisions where they are directly involved with the _project group_ of concern. In an event when all members of the _Dev Team_ have to abstain, the decision should be passed to the _Core Team_ or Trustees.
+4. Members of the _Dev Team_ should abstain from financial decisions where they are directly involved with the _project group_ of concern. In an event when all members of the _Dev Team_ have to abstain, the decision should be passed to the _Core Team_ and then Trustees.
 5. The _Dev Team_ is responsible for the oversight of the various project groups within Student Robotics. The _project groups_ should report their progress regularly to the Dev Team.
 
 ## Relationship to the Core Team
