@@ -55,7 +55,7 @@ Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
     - Functional requirements (e.g. compatible with the rest of the kit, can be powered from Power Board, runs our API, camera isn’t made slower, form factor)
     - Scope (e.g. excludes any changes to modular kit or API, independent of Python 3 project)
     - Deliverables (e.g. Board, Software, Documentation for students and volunteers)
-    - Testing requirements (e.g. is demonstrated to run a defined piece of software on a test robot without fault, with a certain response time for libkoki markers, etc.)
+    - Acceptance Criteria (e.g. is demonstrated to run a defined piece of software on a test robot without fault, with a certain response time for libkoki markers, etc.)
 - The _Dev Team_ may also define some limits, such as:
     - Cut-off date for deployment at SR2020
     - Cost per unit limit
