@@ -78,7 +78,7 @@ As this is notionally a simpler thing, but still in scope as it impacts the comp
 - The _project group_ determines that there is no need for a specification due to minor impact.
     - A change of minor impact does not have significant cost or change to the working of the competition.
     - The _Dev Team_ may determine that a project is of minor impact and require a specification.
-- Developer updates/opens a new ticket in the appropriate GitHub Project.
+- Developer updates/opens a new ticket on the appropriate GitHub Project, adding to the relevant repo also if one exists.
 - The _project group_ will define testing and documentation requirements.
 - Developer submits a pull request. 
 - The _project group_ checks it meets the requirements and approves or rejects.
