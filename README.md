@@ -46,7 +46,7 @@ For new projects, there is a process to follow to ensure they receive sufficient
 For each _project group_ it is recommended that a “Project” is opened and actively maintained with high-level progress updates in the `srobo` GitHub organisation - even the “nice to haves” - if there are good ideas being worked on which get parked here, at least there will be some documentation to pick up on.
 
 Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
-
+## Examples
 ### Project of significant impact: New brain board
 
 - A group of volunteers decide they’d like to work on finding a new single board computer which can serve as the brain board, and port/upgrade software to work on it.
