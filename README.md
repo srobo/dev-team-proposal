@@ -12,7 +12,7 @@ The goals of the _Dev Team_ are to ensure the long-term longevity of Student Rob
 
 ## Project Groups
 
-A _project group_ is a smaller group of self-selected volunteers who have a particular interest in working on something together. The _project group_ should report progress regularly to the _Dev Team_. The _Dev Team_ oversees the various _project groups_ to ensure that they are on track and aligned with the goals of the charity. _Project groups_ are responsible for maintaining projects that they have.
+A _project group_ is a smaller group of one or more self-selected volunteers who have a particular interest in working on something together. The _project group_ should report progress regularly to the _Dev Team_. The _Dev Team_ oversees the various _project groups_ to ensure that they are on track and aligned with the goals of the charity. _Project groups_ are responsible for maintaining projects that they have.
 
 ### Formation of a Project Group
 
