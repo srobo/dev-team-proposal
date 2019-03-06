@@ -37,7 +37,7 @@ For the purposes of budgetary accountability, the _Dev Team_ will select a Chair
 ## Relationship to the Core Team
 
 - The _Dev Team_ is independent from the _Core Team_, but will work closely with them in certain situations.
-- The _Core Team_ will also communicate priorities for projects to be completed by the next competition cycle. In the event of a Kit Deployment, the _Core Team_ is responsible for budgeting, manufacture, deployment and testing.
+- The _Core Team_ will also communicate priorities for projects to be completed by the next competition cycle. In the event of a Kit Deployment, the _Core Team_ is responsible for ensuring budgeting, manufacture, deployment and testing is completed. The _project group_ will likely be the ones completing these tasks.
 
 ## Getting Things Done
 
