@@ -74,7 +74,7 @@ Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
 
 As this is notionally a simpler thing, but still in scope as it impacts the competition cycle, the process can be simpler.
 
-- Developer wants to add the feature and is pointed in the direction of the appropriate _project group_ by the _Dev Team, or creates one if it does not exist.
+- Developer wants to add the feature and is pointed in the direction of the appropriate _project group_ by the _Dev Team_, or creates one if it does not exist.
 - The _project group_ determines that there is no need for a specification due to minor impact.
     - A change of minor impact does not have significant cost or change to the working of the competition.
     - The _Dev Team_ may determine that a project is of minor impact and require a specification.
