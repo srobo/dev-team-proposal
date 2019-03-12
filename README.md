@@ -22,7 +22,7 @@ Alternatively, the _Dev Team_ may identify the need for a project within the org
 
 ## Budgeting
 
-The _Dev Team_ is allocated a budget, to be agreed with the Trustees. The scope of this budget is to cover costs incurred for development activities only, and not the cost of deploying any completed projects which would be arranged between the trustees and _Core Team_.
+The _Dev Team_ is allocated a budget, to be agreed with the Trustees. The scope of this budget is to cover costs incurred for development activities only, and not the cost of deploying any completed projects which would be arranged between the Trustees and _Core Team_.
 
 For the purposes of budgetary accountability, the _Dev Team_ will select a Chair and Treasurer. (How the budget is managed is between the _Dev Team_ and the Trustees.) In practice, unlike the _Core Team_ budget which is fairly detailed (e.g. £x on Kickstart, £y on Competition, £z on other) and is approved in advance, _Dev Team_ purchasing will be defined at a higher level (maybe some “infrastructure” budget for a dev server and some dev tools but not £a for Project A, £b for Project B. Unlike the _Core Team_, this will not be a rolling budget, but a “pot” that gets topped up in each accounting period to allow for projects to be budgeted over multiple years.
 
