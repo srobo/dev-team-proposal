@@ -16,7 +16,7 @@ A _project group_ is a smaller group of one or more self-selected volunteers who
 
 ### Formation of a Project Group
 
-A group of volunteers decides that they would like to work on a project. They communicate their ideas to the _Dev Team_ and the _Dev Team_ will decide whether the project is beneficial to the organisation. A schedule for the project will be discussed between the _Dev Team_ and the _project group_. A _project group_ may apply to the _Dev Team_ for budget for specific purchases for their project, given sufficient justification. The _Dev Team_ should also keep in mind the future needs of _project groups_ when planning their budget.
+A group of volunteers decides that they would like to work on a project. They communicate their ideas to the _Dev Team_ and the _Dev Team_ will decide whether the project is beneficial to the organisation, consulting the _Core Team_ and relevant experts if necessary. A schedule for the project will be discussed between the _Dev Team_ and the _project group_. A _project group_ may apply to the _Dev Team_ for budget for specific purchases for their project, given sufficient justification. The _Dev Team_ should also keep in mind the future needs of _project groups_ when planning their budget.
 
 Alternatively, the _Dev Team_ may identify the need for a project within the organisation and will find interested volunteers to form a group to do the project.
 
@@ -60,7 +60,7 @@ Examples of what may be in scope for SR2020: Python 3, new brain board, new IDE.
     - Cut-off date for deployment at SR2020
     - Cost per unit limit
     - Evidence shown that more than one board has been considered
-- The _Dev Team_ may consult the _Core Team_ or Trustees to assist them with requirements. For example, in the case of a Project that would have a high implementation cost, the _Dev Team_ would need to communicate the feasibility of it with the Trustees.
+- The _Dev Team_ may consult the _Core Team_ or Trustees to assist them with requirements. The _Dev Team_ will also consider if the project is beneficial to the charity, and may consult the _Core Team_ about this also. For example, in the case of a Project that would have a high implementation cost, the _Dev Team_ would need to communicate the feasibility of it with the Trustees.
 - This specification is presented to and ratified by the _Dev Team_ (either on the _Dev Team_ mailing list or at a _Dev Team_ meeting). Any sensitive information, such as a budget, will need to be privately discussed by the _Dev Team_ and _project group_.
 - Development work happens.
 - If changes to the specification are needed, these can be discussed with the _Dev Team_.
